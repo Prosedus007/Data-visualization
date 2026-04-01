@@ -9,6 +9,24 @@ This project analyzes the `Sample - Superstore.xlsm` dataset using Python in Jup
 - `analysis.pdf` - Existing reference report
 - `Analysis.pbix` - Power BI file
 
+## Charts from `EDA.ipynb`
+
+The following images were extracted from notebook outputs:
+
+![Chart 1](images/chart_1.png)
+![Chart 2](images/chart_2.png)
+![Chart 3](images/chart_3.png)
+![Chart 4](images/chart_4.png)
+![Chart 5](images/chart_5.png)
+![Chart 6](images/chart_6.png)
+![Chart 7](images/chart_7.png)
+
+## Power BI Dashboard
+
+![Image 1](images/1.png)
+![Image 2](images/2.png)
+<!-- ![Image 3](images/3.png) -->
+
 ## Analysis Goals
 
 - Clean and prepare raw order data
@@ -66,21 +84,6 @@ The notebook provides:
 - return-impact analysis
 - KPI summary and business recommendations
 
-## Charts from `EDA.ipynb`
 
-The following images were extracted from notebook outputs:
 
-![Chart 1](images/chart_1.png)
-![Chart 2](images/chart_2.png)
-![Chart 3](images/chart_3.png)
-![Chart 4](images/chart_4.png)
-![Chart 5](images/chart_5.png)
-![Chart 6](images/chart_6.png)
-![Chart 7](images/chart_7.png)
-
-## Power BI Dashboard
-
-![Image 1](images/1.png)
-![Image 2](images/2.png)
-<!-- ![Image 3](images/3.png) -->
 
