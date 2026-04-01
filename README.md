@@ -78,9 +78,9 @@ The following images were extracted from notebook outputs:
 ![Chart 6](images/chart_6.png)
 ![Chart 7](images/chart_7.png)
 
-## Additional Images
+## Power BI Dashboard
 
 ![Image 1](images/1.png)
 ![Image 2](images/2.png)
-![Image 3](images/3.png)
+<!-- ![Image 3](images/3.png) -->
 
